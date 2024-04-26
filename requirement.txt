@@ -1,0 +1,4 @@
+opencv-python
+mss
+numpy
+ultralytics==8.2.2
